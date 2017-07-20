@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 File 4 again
+=======
+File 4 Modified
+>>>>>>> 46309f62ec78484645f08242ba802c45cf298277
